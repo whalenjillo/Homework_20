@@ -1,3 +1,61 @@
+.jumbotron {
+    background-color: #65B9FF;
+}
+
+.display-4 {
+    color: white;
+}
+
+.lead {
+    color: white; 
+}
+
 .row {
-    background-color:#335D80;
+    margin-left: 2%;
+}
+
+.container {
+    margin-left: 2%;
+}
+
+.survey-container {
+    display: flex;
+    width: 100%;
+}
+
+.survey-column {
+    display: flex;
+    height: 600px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.survey-image {
+    background-color: white;
+    
+}
+
+.survey-copy {
+    background-color:white; 
+}
+
+.survey-copy-02 {
+    margin-left: 5%;
+}
+
+.survey-screenshot {
+    width: 700px;
+}
+
+.user-persona {
+    width: 700px;
+}
+
+.hi-fi {
+    width: 250px;
+}
+
+h1 {
+    color: #65B9FF;
 }
